@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Config-Service
+  profiles:
+    active: native
+
+server:
+  port: 8081
+
